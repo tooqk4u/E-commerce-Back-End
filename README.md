@@ -10,7 +10,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)
 
   
-This is a back end database using Sequelize to interact with a MySQL database. Take a working Express.js API and configure it to use Sequelize to interact with a MySQL database. This is for a e-commerce application environment. There is no front-end code nor a deployed site as this is only the database and routes logic. 
+This is a back end database using Sequelize to interact with a MySQL database. This application utilizes Express.js API and configures it to use Sequelize to interact with a MySQL database. This is for a e-commerce application environment. There is no front-end code nor a deployed site as this is only the database and routes logic. 
 
 ### Screenshot
 ![Project Screenshot](./images/Capture.PNG)

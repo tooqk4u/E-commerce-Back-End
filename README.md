@@ -113,7 +113,7 @@ GitHub: [tooqk4u](https://github.com/tooqk4u).
 
 ## Credits 
  
-Shelley Soucie
+Shelley Soucie, 
 Phil Loy (tutor)
 
 ---

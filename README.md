@@ -1,9 +1,6 @@
 # E-Commerce Back End Database
    [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 ---
-## Link to Video  
-#### (To demonstrate functionality)
-https://drive.google.com/file/d/1m3HSrC5jsHZYOwcrgXk6X8icggLvAhwH/view
 
 
 ## Description 
@@ -14,6 +11,17 @@ https://drive.google.com/file/d/1m3HSrC5jsHZYOwcrgXk6X8icggLvAhwH/view
 
   
 This is a back end database using Sequelize to interact with a MySQL database. Take a working Express.js API and configure it to use Sequelize to interact with a MySQL database. This is for a e-commerce application environment. There is no front-end code nor a deployed site as this is only the database and routes logic. 
+
+### Screenshot
+![Project Screenshot](./images/Capture.PNG)
+
+
+## Link to Video  
+#### (To demonstrate functionality)
+https://drive.google.com/file/d/1m3HSrC5jsHZYOwcrgXk6X8icggLvAhwH/view
+
+
+
 
 ---
   

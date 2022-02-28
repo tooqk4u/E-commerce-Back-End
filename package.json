@@ -111,7 +111,7 @@
     "mysql2": "^2.3.3",
     "named-placeholders": "^1.1.2",
     "negotiator": "^0.6.3",
-    "nodemon": "^2.0.3",
+    "nodemon": "^2.0.15",
     "nopt": "^1.0.10",
     "normalize-path": "^3.0.0",
     "normalize-url": "^4.5.1",
@@ -181,7 +181,8 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "start": "nodemon server.js",
+    "seed": "node seeds/index.js"
   },
   "repository": {
     "type": "git",
